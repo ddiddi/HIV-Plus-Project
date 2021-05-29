@@ -7,10 +7,10 @@ This will install both run-time project dependencies.
 Runs the app.
 Open http://localhost:3000 to view it in the browser.
 
-![OTP Login](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![OTP Login](https://github.com/ddiddi/HIV-Plus-Project/blob/main/OTP.png?raw=true)
 
-![Dash1 ](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Dashboard Top](https://github.com/ddiddi/HIV-Plus-Project/blob/main/Dashboard1.png?raw=true)
 
-![Dash2](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Dashboard Bottom](https://github.com/ddiddi/HIV-Plus-Project/blob/main/Dashboard2.png?raw=true)
 
-![Chatbot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Chatbot](https://github.com/ddiddi/HIV-Plus-Project/blob/main/Chatbot.png?raw=true)
